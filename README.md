@@ -14,3 +14,13 @@
 4) Work with PDFs
 5) Automate emails and text messages
 6) Fill out forms
+
+### Data Science and Machine Learnig
+1) Analyze large data files
+2) Create visualizations
+3) Perform machine learning tasks
+4) Create and run predictive algorithms
+
+### Create websites
+1) Use web frameworks such as Django and Flask to handle the backend of a website and user data
+2) Create interactive dashboards for useres
