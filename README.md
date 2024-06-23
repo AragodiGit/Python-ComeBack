@@ -1,7 +1,7 @@
 # Python ComeBack
 
 `Python`
-"print(1+1)"
+```print(1+1)```
 
 ## Why Choose Python
 1) Designed for clear, logical code that is easy to read and learn. 
