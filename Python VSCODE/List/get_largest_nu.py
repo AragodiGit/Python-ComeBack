@@ -1,12 +1,12 @@
 def sum_of_list_item(ls):
-    ls.sort()
-    return ls[-1]
+    count = 0
+    for item in ls:
+        if len(item) > 2:
+            if item[0] == item[-1]:
+                count += 1
+    return count
+        
 
-n = int(input("Enter number of items:"))
-ls = []
-for i in range(n):
-    val = int(input("Enter the item:"))
-    ls.append(val)
-
+ls = ['abc', 'xyz', 'aba', '1221','aja']
 obj = sum_of_list_item(ls)
-print(f"The largest number of list:{obj}")
+print(obj)
